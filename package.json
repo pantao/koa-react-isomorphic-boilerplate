@@ -1,0 +1,26 @@
+{
+  "name": "koa-react-isomorphic-boilerplate",
+  "version": "0.0.0",
+  "description": "Koa2 & React based isomorphic boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pantao/koa-react-isomorphic-boilerplate.git"
+  },
+  "keywords": [
+    "Koa",
+    "Koa2",
+    "React",
+    "Isomorphic",
+    "Boilerplate"
+  ],
+  "author": "潘韬 <54778899@qq.com> (http://onmr.com)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/pantao/koa-react-isomorphic-boilerplate/issues"
+  },
+  "homepage": "https://github.com/pantao/koa-react-isomorphic-boilerplate#readme"
+}
